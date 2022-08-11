@@ -123,6 +123,8 @@
   .card3 img{
     border-radius: 50%;
     justify-content: right;
+    width: 150px;
+    height: 150px;
   }
 
   .card3{
